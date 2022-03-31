@@ -15,7 +15,7 @@
 
     <properties>
         <resilience4j.version>1.4.0</resilience4j.version>
-        <spring.boot.version>2.3.1RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.12</spring.boot.version>
     </properties>
 
     <dependencyManagement>
